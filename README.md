@@ -1,6 +1,10 @@
 # -Event-Registration-App
 This documents how I built an app to be used to register , check-in people at events.
 
+Apps aren't built for the fun of it rather they come about as Solutions to problems. It is in this way that my critical thinking approach to development works.
+I will walkthrough the business problem we sent out form so people can regsiter online for our event and to check them in on day of the event.We also need to be able to register people coming in on that day as New registrations.
+Having defined the business scenario I will now take us through the solution development.
+
 ## Business Problem
 We want to have an event soon and so we make a form for people to register so we know people to plan for.
 When they get there want to check them in, give them food tag
