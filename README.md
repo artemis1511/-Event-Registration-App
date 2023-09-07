@@ -28,7 +28,7 @@ This page would be for people who had registered online so we can view them,sear
 ![image](https://github.com/artemis1511/-Event-Registration-App/assets/107225504/5736b615-6e95-4f1f-8380-ef8bb3e444b0)
 
 ![image](https://github.com/artemis1511/-Event-Registration-App/assets/107225504/d0414460-6ee4-4a8b-b0a4-8c7cdaaed9a4)
-I used the search function on the gallery but we can see theres a warning attached to it which is that the function wouldnt work for more than 500 items but since we are only admitting 500 participants we can use it.In any case the filter function which I've commented out can do the job equally as well.I just chose to use the search function as it can search across multiple columns.
+I used the search function on the gallery but we can see theres a warning attached to it which is that the function wouldnt work for more than 500 items but since we are only admitting 500 participants we can use it.In any case the filter function which I've commented out can do the job equally as well.I just chose to use the search function since we're only admitting 500 participants.
 
 ### New registration screen
 On this page insert a form and connect it to a SharePoint List which serves as our database where data filled in by our participants from our form resides.
